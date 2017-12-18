@@ -1,0 +1,28 @@
+{
+  "name": "2048-bot",
+  "version": "1.0.0",
+  "description": "Simple bot built to solve 2048",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickyplouis/2048-bot.git"
+  },
+  "keywords": [
+    "node",
+    "2048",
+    "ai"
+  ],
+  "author": "Ricardo Pierre-Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickyplouis/2048-bot/issues"
+  },
+  "homepage": "https://github.com/rickyplouis/2048-bot#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}

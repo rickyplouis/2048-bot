@@ -10,3 +10,5 @@ The purpose of this project is to build a small bot that can solve the 2048 game
 First I want to recreate the minimax algorithm then see where to go from there.
 
 # Development
+
+``$ npm start``
